@@ -4,7 +4,7 @@ Amazonで税抜き表示するブックマークレットです。
 
 ## こんなふうに表示されます
 
-<img src="misc/pict/sc1.png" width=240px />
+<img src="misc/pict/sc1.png" width="240px" />
 
 ## 導入方法
 
