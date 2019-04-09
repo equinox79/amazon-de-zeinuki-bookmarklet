@@ -1,14 +1,10 @@
-# Amazonで税抜き表示するブックマークレット
-
-----
-
 ## これは何
 
 Amazonで税抜き表示するブックマークレットです。
 
 ## こんなふうに表示されます
 
-<img src="misc/pict/sc1.png" />
+<img src="misc/pict/sc1.png" style="height:240px" />
 
 ## 導入方法
 
