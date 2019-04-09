@@ -1,0 +1,1 @@
+# amazon-de-zeinuki-bookmarklet
