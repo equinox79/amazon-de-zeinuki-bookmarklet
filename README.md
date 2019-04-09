@@ -1,6 +1,7 @@
 ## これは何
 
-Amazonで税抜き表示するブックマークレットです。
+* Amazonで税抜き表示するブックマークレットです。
+* [Github Pages](https://equinox79.github.io/amazon-de-zeinuki-bookmarklet/)にて公開
 
 ## こんなふうに表示されます
 
